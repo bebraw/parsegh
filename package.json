@@ -29,7 +29,9 @@
     }
   ],
   "dependencies": {
-    "annostring": "~0.2.0"
+    "annostring": "~0.2.0",
+    "annotate": "~0.7.0",
+    "annois": "~0.3.0"
   },
   "devDependencies": {
     "suite.js": "~0.6.0"
